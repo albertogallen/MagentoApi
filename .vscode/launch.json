@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/MagentoApi.Console/bin/Debug/net5.0/MagentoApi.Console.dll",
+            "program": "${workspaceFolder}/MagentoApi.ClientConsole/bin/Debug/net5.0/MagentoApi.ClientConsole.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/MagentoApi.Console",
+            "cwd": "${workspaceFolder}/MagentoApi.ClientConsole",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false
